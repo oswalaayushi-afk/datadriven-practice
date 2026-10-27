@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cedar_flame_5440), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-27 |
 | [The Long Watch](./practice/sql/the-long-watch) | SQL | Medium | 2026-10-27 |
 
 <!-- datadriven:index:end -->
